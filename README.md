@@ -18,3 +18,10 @@
 	+ git log
 * 回复到哪个版本
 	+ git reset --hard commit提交记录前六位
+
+* 与远程分支关联
+	+ git remote add origin "https:////////"
+* 推代码
+	+ git push -u origin maseter （推到主分支）
+* 拉代码
+	+ git pull origin master 
