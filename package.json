@@ -1,0 +1,15 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "description": "* 初始化一个本地仓库\r \t+ git init\r * 查看本地仓库的状态\r \t+ git status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
