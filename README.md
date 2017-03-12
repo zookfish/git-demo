@@ -12,3 +12,9 @@
 	+ 在本地仓库的根目录添加.gitignore文件
 * 将本地的变化提交到仓库文件夹(提交到.git目录下)
 	+ git commit -m '说明'
+* 比较
+	+ git diff
+* 查看提交日志
+	+ git log
+* 回复到哪个版本
+	+ git reset --hard commit提交记录前六位
